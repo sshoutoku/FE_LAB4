@@ -1,0 +1,12 @@
+.buttons {
+    display: flex;
+    gap: 1em;
+}
+
+img {
+    width: 600px;
+}
+
+.task1, #task1 {
+    cursor: pointer;
+}
